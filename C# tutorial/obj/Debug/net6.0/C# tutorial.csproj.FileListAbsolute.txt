@@ -13,6 +13,7 @@ C:\Users\sune1\Pictures\Big coding\C# tutorial\obj\Debug\net6.0\refint\C# tutori
 C:\Users\sune1\Pictures\Big coding\C# tutorial\obj\Debug\net6.0\C# tutorial.pdb
 C:\Users\sune1\Pictures\Big coding\C# tutorial\obj\Debug\net6.0\C# tutorial.genruntimeconfig.cache
 C:\Users\sune1\Pictures\Big coding\C# tutorial\obj\Debug\net6.0\ref\C# tutorial.dll
+<<<<<<< HEAD
 C:\Users\sune1\Pictures\Big coding\RepositoryGoBrr\C# tutorial\bin\Debug\net6.0\C# tutorial.exe
 C:\Users\sune1\Pictures\Big coding\RepositoryGoBrr\C# tutorial\bin\Debug\net6.0\C# tutorial.deps.json
 C:\Users\sune1\Pictures\Big coding\RepositoryGoBrr\C# tutorial\bin\Debug\net6.0\C# tutorial.runtimeconfig.json
@@ -28,3 +29,5 @@ C:\Users\sune1\Pictures\Big coding\RepositoryGoBrr\C# tutorial\obj\Debug\net6.0\
 C:\Users\sune1\Pictures\Big coding\RepositoryGoBrr\C# tutorial\obj\Debug\net6.0\C# tutorial.pdb
 C:\Users\sune1\Pictures\Big coding\RepositoryGoBrr\C# tutorial\obj\Debug\net6.0\C# tutorial.genruntimeconfig.cache
 C:\Users\sune1\Pictures\Big coding\RepositoryGoBrr\C# tutorial\obj\Debug\net6.0\ref\C# tutorial.dll
+=======
+>>>>>>> master

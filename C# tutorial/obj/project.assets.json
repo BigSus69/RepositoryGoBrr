@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\sune1\\Pictures\\Big coding\\RepositoryGoBrr\\C# tutorial\\C# tutorial.csproj",
       "projectName": "C# tutorial",
       "projectPath": "C:\\Users\\sune1\\Pictures\\Big coding\\RepositoryGoBrr\\C# tutorial\\C# tutorial.csproj",
       "packagesPath": "C:\\Users\\sune1\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sune1\\Pictures\\Big coding\\RepositoryGoBrr\\C# tutorial\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\sune1\\Pictures\\Big coding\\C# tutorial\\C# tutorial.csproj",
+      "projectName": "C# tutorial",
+      "projectPath": "C:\\Users\\sune1\\Pictures\\Big coding\\C# tutorial\\C# tutorial.csproj",
+      "packagesPath": "C:\\Users\\sune1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sune1\\Pictures\\Big coding\\C# tutorial\\obj\\",
+>>>>>>> master
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sune1\\AppData\\Roaming\\NuGet\\NuGet.Config"

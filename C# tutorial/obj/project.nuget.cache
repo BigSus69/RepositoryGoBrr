@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "k7HANzllYAx3xIX2mVMklcKcAO75F1KYLsLjkkqAyhx2FBNdSxD5KT5XBl5nwJjTL8RQYX7AraBg85La7/J2Hg==",
   "success": true,
   "projectFilePath": "C:\\Users\\sune1\\Pictures\\Big coding\\RepositoryGoBrr\\C# tutorial\\C# tutorial.csproj",
+=======
+  "dgSpecHash": "GH6D73hvFfQkv90mWhwueFSMUOv4UJD0gzL7SG90FgaECevNkdlgtWzhhXNXXUTwq5LVqxYqgoUnDMxtGmNT+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sune1\\Pictures\\Big coding\\C# tutorial\\C# tutorial.csproj",
+>>>>>>> master
   "expectedPackageFiles": [],
   "logs": []
 }
